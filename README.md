@@ -18,3 +18,9 @@ Void World Disc =
 ```
 
 Using the disc transports you to the void world (skyblock) where you are finally able to manipulate the world around you.
+
+## Chapter 1: Starting from Nothing
+The goal of this chapter is to automate the most basic resources - Dirt, Cobblestone, Stone, Wood, Charcoal. Combining these together will allow you to create the "Overworld Disc" which will allow you access to the Overworld, and the resources therein.
+
+## Chapter 2: The Overworld
+This introduces you to the first tech and magic mods, as well as access to all the resources of the Overworld.
