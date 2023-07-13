@@ -1,5 +1,6 @@
 # OmegaLambdaModpack
 An expert modpack - skyblock with a twist
+For version 1.19.2
 
 Everything is a draft at the moment
 
@@ -21,6 +22,47 @@ Using the disc transports you to the void world (skyblock) where you are finally
 
 ## Chapter 1: Starting from Nothing
 The goal of this chapter is to automate the most basic resources - Dirt, Cobblestone, Stone, Wood, Charcoal. Combining these together will allow you to create the "Overworld Disc" which will allow you access to the Overworld, and the resources therein.
+
+<details>
+  <summary>Spoiler: Chapter mods</summary>
+  <ul>
+    <li>Ex Nihilo: Sequentia (https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-sequentia)</li>
+    <li>Extra Golems (https://www.curseforge.com/minecraft/mc-mods/extra-golems)</li>
+    <li>Immersive Mob Farms (Not Yet Created)</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Spoiler: Chapter Progression</summary>
+  <ol>
+    <li>Start on a sky island with a water source block, a bit of dirt, and a stonewood tree.</li>
+    <li>The stonewood tree drops Stonewood logs, Stonewood saplings, and Stonewood fruit</li>
+    <li>The Stonewood logs can be used to make a composter, which can be filled with saplings to produce bonemeal.</li>
+    <li>Bonemeal can be used to get pumpkin seeds, eggplants, and other necessary ingredients.</li>
+    <li>The Stonewood logs can be used to make an Ex Nihilo Barrel and Crucible</li>
+  </ol>
+</details>
+
+
+<details> 
+  <summary>Spoiler: Chapter Storage</summary>
+  <ul>
+    <li>Vanilla Chests</li>
+  </ul>
+</details>
+
+
+<details> 
+  <summary>Spoiler: Chapter Goals</summary>
+  <ul>
+    <li>Stonewood Tree</li>
+    <li>Cobblestone Golem</li>
+    <li>Dirt Golem</li>
+    <li>Stonewood Golem</li>
+    <li>Charcoal Golem</li>
+  </ul>
+</details>
+
 
 ## Chapter 2: The Overworld
 This introduces you to the first tech and magic mods, as well as access to all the resources of the Overworld.
